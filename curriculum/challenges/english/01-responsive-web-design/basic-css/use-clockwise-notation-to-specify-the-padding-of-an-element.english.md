@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08826
 title: Use Clockwise Notation to Specify the Padding of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cB7mBS9'
+videoUrl: '/TutorialClips/Basic CSS/use-clockwise-notation-to-specify-the-padding-of-an-element.webm'
 forumTopicId: 18346
 ---
 

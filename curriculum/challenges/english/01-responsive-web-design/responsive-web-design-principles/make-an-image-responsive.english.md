@@ -2,7 +2,7 @@
 id: 587d78b1367417b2b2512b09
 title: Make an Image Responsive
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pzrPu4/cz763UD'
+videoUrl: '/TutorialClips/Responsive Web Design Principles/make-an-image-responsive.webm'
 forumTopicId: 301140
 ---
 

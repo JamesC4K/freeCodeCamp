@@ -2,7 +2,7 @@
 id: 587d78a6367417b2b2512add
 title: Create a Graphic Using CSS
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cEDWPs6'
+videoUrl: '/TutorialClips/Applied Visual Design/create-a-graphic-using-css.webm'
 forumTopicId: 301048
 ---
 

@@ -2,7 +2,7 @@
 id: 5a94fe4469fb03452672e460
 title: Limit Item Size Using the minmax Function
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cD97RTv'
+videoUrl: '/TutorialClips/CSS Grid/limit-item-size-using-the-minmax-function.webm'
 forumTopicId: 301131
 ---
 

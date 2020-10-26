@@ -2,7 +2,7 @@
 id: 587d778a367417b2b2512aa6
 title: Improve Form Field Accessibility with the label Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cGJMMAN'
+videoUrl: '/TutorialClips/Applied Accessibility/improve-form-field-accessibility-with-the-label-element.webm'
 forumTopicId: 301016
 ---
 

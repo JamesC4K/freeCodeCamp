@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08808
 title: Specify How Fonts Should Degrade
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cpVKBfQ'
+videoUrl: '/TutorialClips/Basic CSS/specify-how-fonts-should-degrade.webm'
 forumTopicId: 18304
 ---
 

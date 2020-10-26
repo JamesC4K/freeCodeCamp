@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08835
 title: Create a Set of Checkboxes
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cqrkJsp'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/create-a-set-of-checkboxes.webm'
 forumTopicId: 16821
 ---
 

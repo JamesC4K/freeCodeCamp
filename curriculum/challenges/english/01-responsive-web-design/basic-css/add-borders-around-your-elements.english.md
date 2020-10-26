@@ -2,7 +2,7 @@
 id: bad87fee1348bd9bedf08813
 title: Add Borders Around Your Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c2MvnHZ'
+videoUrl: '/TutorialClips/Basic CSS/add-borders-around-your-elements.webm'
 forumTopicId: 16630
 ---
 

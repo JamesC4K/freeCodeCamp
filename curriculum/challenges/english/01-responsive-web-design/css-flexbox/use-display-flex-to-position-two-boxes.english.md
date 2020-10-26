@@ -2,7 +2,7 @@
 id: 587d78ab367417b2b2512af0
 title: 'Use display: flex to Position Two Boxes'
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/cgz3QS7'
+videoUrl: '/TutorialClips/CSS flexbox/use-display-flex-to-position-two-boxes.webm'
 forumTopicId: 301105
 ---
 

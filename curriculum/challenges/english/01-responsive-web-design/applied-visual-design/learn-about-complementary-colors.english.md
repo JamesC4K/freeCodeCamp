@@ -2,7 +2,7 @@
 id: 587d78a3367417b2b2512ad1
 title: Learn about Complementary Colors
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c2MD3Tr'
+videoUrl: '/TutorialClips/Applied Visual Design/learn-about-complementary-colors.webm'
 forumTopicId: 301056
 ---
 

@@ -2,7 +2,7 @@
 id: bad87eee1348bd9aede07836
 title: Set the id of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cN6MEc2'
+videoUrl: '/TutorialClips/Basic CSS/set-the-id-of-an-element.webm'
 forumTopicId: 18279
 ---
 

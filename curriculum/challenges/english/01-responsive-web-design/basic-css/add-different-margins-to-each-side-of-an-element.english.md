@@ -2,7 +2,7 @@
 id: bad87fee1248bd9aedf08824
 title: Add Different Margins to Each Side of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cg4RWh4'
+videoUrl: '/TutorialClips/Basic CSS/add-different-margins-to-each-side-of-an-element.webm'
 forumTopicId: 16633
 ---
 

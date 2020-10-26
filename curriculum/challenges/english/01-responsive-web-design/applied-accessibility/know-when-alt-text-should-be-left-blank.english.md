@@ -2,7 +2,7 @@
 id: 587d774c367417b2b2512a9d
 title: Know When Alt Text Should be Left Blank
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cM9P4t2'
+videoUrl: '/TutorialClips/Applied Accessibility/know-when-alt-text-should-be-left-blank.webm'
 forumTopicId: 301019
 ---
 

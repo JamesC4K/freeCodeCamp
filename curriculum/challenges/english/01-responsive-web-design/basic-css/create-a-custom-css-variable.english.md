@@ -2,7 +2,7 @@
 id: 5a9d726c424fe3d0e10cad11
 title: Create a custom CSS Variable
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cQd27Hr'
+videoUrl: '/TutorialClips/Basic CSS/create-a-custom-css-variable.webm'
 forumTopicId: 301086
 ---
 

@@ -2,7 +2,7 @@
 id: 587d78a9367417b2b2512ae9
 title: Use a Bezier Curve to Move a Graphic
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c6bnRCK'
+videoUrl: '/TutorialClips/Applied Visual Design/use-a-bezier-curve-to-move-a-graphic.webm'
 forumTopicId: 301071
 ---
 

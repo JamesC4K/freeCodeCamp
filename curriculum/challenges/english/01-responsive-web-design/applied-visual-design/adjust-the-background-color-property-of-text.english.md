@@ -2,7 +2,7 @@
 id: 587d781b367417b2b2512abc
 title: Adjust the background-color Property of Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cEDqwA6'
+videoUrl: '/TutorialClips/Applied Visual Design/adjust-the-background-color-property-of-text.webm'
 forumTopicId: 301032
 ---
 

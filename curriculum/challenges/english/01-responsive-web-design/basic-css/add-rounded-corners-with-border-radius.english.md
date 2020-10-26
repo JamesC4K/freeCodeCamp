@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08814
 title: Add Rounded Corners with border-radius
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cbZm2hg'
+videoUrl: '/TutorialClips/Basic CSS/add-rounded-corners-with-border-radius.webm'
 forumTopicId: 16649
 ---
 

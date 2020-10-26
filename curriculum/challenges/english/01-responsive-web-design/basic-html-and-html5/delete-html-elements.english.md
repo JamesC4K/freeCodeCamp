@@ -2,7 +2,7 @@
 id: bad87fed1348bd9aedf08833
 title: Delete HTML Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/ckK73C9'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/delete-html-elements.webm'
 forumTopicId: 17559
 ---
 

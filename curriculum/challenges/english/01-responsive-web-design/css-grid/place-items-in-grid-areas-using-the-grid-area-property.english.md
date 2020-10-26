@@ -2,7 +2,7 @@
 id: 5a94fe1369fb03452672e45d
 title: Place Items in Grid Areas Using the grid-area Property
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cRrqmtV'
+videoUrl: '/TutorialClips/CSS Grid/place-items-in-grid-areas-using-the-grid-area-property.webm'
 forumTopicId: 301132
 ---
 

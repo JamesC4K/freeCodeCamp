@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08827
 title: Create a Bulleted Unordered List
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cDKVPuv'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/create-a-bulleted-unordered-list.webm'
 forumTopicId: 16814
 ---
 

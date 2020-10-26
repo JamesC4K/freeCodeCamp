@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf0887a
 title: Headline with the h2 Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cE8Gqf3'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/headline-with-the-h2-element.webm'
 forumTopicId: 18196
 ---
 

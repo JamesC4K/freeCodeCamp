@@ -2,7 +2,7 @@
 id: 58c383d33e2e3259241f3076
 title: Use Attribute Selectors to Style Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cnpymfJ'
+videoUrl: '/TutorialClips/Basic CSS/use-attribute-selectors-to-style-elements.webm'
 forumTopicId: 301092
 ---
 

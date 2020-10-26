@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08824
 title: Add Different Padding to Each Side of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cB7mwUw'
+videoUrl: '/TutorialClips/Basic CSS/add-different-padding-to-each-side-of-an-element.webm'
 forumTopicId: 16634
 ---
 

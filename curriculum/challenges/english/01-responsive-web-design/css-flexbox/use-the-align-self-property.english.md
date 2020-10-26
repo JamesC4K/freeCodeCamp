@@ -2,7 +2,7 @@
 id: 587d78af367417b2b2512b00
 title: Use the align-self Property
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/cMbvzfv'
+videoUrl: '/TutorialClips/CSS flexbox/use-the-align-self-property.webm'
 forumTopicId: 301107
 ---
 

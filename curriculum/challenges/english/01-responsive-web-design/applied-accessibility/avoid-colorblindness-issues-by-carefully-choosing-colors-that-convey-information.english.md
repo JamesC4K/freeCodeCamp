@@ -2,7 +2,7 @@
 id: 587d778f367417b2b2512aad
 title: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c437as3'
+videoUrl: '/TutorialClips/Applied Accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information.webm'
 forumTopicId: 301011
 ---
 

@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedd08830
 title: Add a Submit Button to a Form
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cp2Nkhz'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/add-a-submit-button-to-a-form.webm'
 forumTopicId: 16627
 ---
 

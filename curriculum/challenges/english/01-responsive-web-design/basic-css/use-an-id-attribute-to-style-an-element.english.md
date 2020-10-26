@@ -2,7 +2,7 @@
 id: bad87dee1348bd9aede07836
 title: Use an id Attribute to Style an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cakyZfL'
+videoUrl: '/TutorialClips/Basic CSS/use-an-id-attribute-to-style-an-element.webm'
 forumTopicId: 18339
 ---
 

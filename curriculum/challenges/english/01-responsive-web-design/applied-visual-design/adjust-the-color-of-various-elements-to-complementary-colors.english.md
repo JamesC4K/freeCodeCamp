@@ -2,7 +2,7 @@
 id: 587d78a4367417b2b2512ad3
 title: Adjust the Color of Various Elements to Complementary Colors
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cWmPpud'
+videoUrl: '/TutorialClips/Applied Visual Design/adjust-the-color-of-various-elements-to-complementary-colors.webm'
 forumTopicId: 301033
 ---
 

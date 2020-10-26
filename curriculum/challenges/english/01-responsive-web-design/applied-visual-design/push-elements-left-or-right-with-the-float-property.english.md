@@ -2,7 +2,7 @@
 id: 587d78a3367417b2b2512ace
 title: Push Elements Left or Right with the float Property
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c2MDqu2'
+videoUrl: '/TutorialClips/Applied Visual Design/push-elements-left-or-right-with-the-float-property.webm'
 forumTopicId: 301066
 ---
 

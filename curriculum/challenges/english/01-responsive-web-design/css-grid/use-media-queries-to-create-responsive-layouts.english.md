@@ -2,7 +2,7 @@
 id: 5a94fe7769fb03452672e463
 title: Use Media Queries to Create Responsive Layouts
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cMbqeHk'
+videoUrl: '/TutorialClips/CSS Grid/use-media-queries-to-create-responsive-layouts.webm'
 forumTopicId: 301138
 ---
 

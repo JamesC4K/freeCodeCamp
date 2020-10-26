@@ -2,7 +2,7 @@
 id: 587d78ae367417b2b2512afc
 title: Use the flex-grow Property to Expand Items
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/c2p78cg'
+videoUrl: '/TutorialClips/CSS flexbox/use-the-flex-grow-property-to-expand-items.webm'
 forumTopicId: 301111
 ---
 

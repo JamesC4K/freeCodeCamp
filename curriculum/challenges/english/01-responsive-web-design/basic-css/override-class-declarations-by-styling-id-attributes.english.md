@@ -2,7 +2,7 @@
 id: bad87fee1348bd8aedf06756
 title: Override Class Declarations by Styling ID Attributes
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cRkpDhB'
+videoUrl: '/TutorialClips/Basic CSS/override-class-declarations-by-styling-id-attributes.webm'
 forumTopicId: 18251
 ---
 

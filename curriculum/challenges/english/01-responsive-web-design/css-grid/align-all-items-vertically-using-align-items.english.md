@@ -2,7 +2,7 @@
 id: 5a94fdf869fb03452672e45b
 title: Align All Items Vertically using align-items
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/ckzPeUv'
+videoUrl: '/TutorialClips/CSS Grid/align-all-items-vertically-using-align-items.webm'
 forumTopicId: 301121
 ---
 

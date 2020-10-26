@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08833
 title: Fill in the Blank with Placeholder Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cgR7Dc7'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/fill-in-the-blank-with-placeholder-text.webm'
 forumTopicId: 18178
 ---
 

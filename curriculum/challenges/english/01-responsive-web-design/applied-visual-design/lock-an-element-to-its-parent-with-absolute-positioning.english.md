@@ -2,7 +2,7 @@
 id: 587d781e367417b2b2512acb
 title: Lock an Element to its Parent with Absolute Positioning
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cyLJ7c3'
+videoUrl: '/TutorialClips/Applied Visual Design/lock-an-element-to-its-parent-with-absolute-positioning.webm'
 forumTopicId: 301060
 ---
 

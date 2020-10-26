@@ -2,7 +2,7 @@
 id: 587d78a8367417b2b2512ae7
 title: Change Animation Timing with Keywords
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cJKvwCM'
+videoUrl: '/TutorialClips/Applied Visual Design/change-animation-timing-with-keywords.webm'
 forumTopicId: 301045
 ---
 

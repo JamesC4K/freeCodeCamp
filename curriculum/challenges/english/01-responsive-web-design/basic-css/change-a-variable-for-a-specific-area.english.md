@@ -2,7 +2,7 @@
 id: 5a9d72a1424fe3d0e10cad15
 title: Change a variable for a specific area
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cdRwbuW'
+videoUrl: '/TutorialClips/Basic CSS/change-a-variable-for-a-specific-area.webm'
 forumTopicId: 301085
 ---
 

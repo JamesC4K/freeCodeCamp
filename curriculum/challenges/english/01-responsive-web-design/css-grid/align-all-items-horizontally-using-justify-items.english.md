@@ -2,7 +2,7 @@
 id: 5a90376038fddaf9a66b5d3c
 title: Align All Items Horizontally using justify-items
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cJbpECn'
+videoUrl: '/TutorialClips/CSS Grid/align-all-items-horizontally-using-justify-items.webm'
 forumTopicId: 301120
 ---
 

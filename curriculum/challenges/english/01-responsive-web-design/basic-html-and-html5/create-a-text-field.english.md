@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08829
 title: Create a Text Field
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/c2EVnf6'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/create-a-text-field.webm'
 forumTopicId: 16823
 ---
 

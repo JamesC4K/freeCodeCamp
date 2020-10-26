@@ -2,7 +2,7 @@
 id: 587d7790367417b2b2512ab1
 title: Use tabindex to Specify the Order of Keyboard Focus for Several Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cmzRRcb'
+videoUrl: '/TutorialClips/Applied Accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.webm'
 forumTopicId: 301028
 ---
 

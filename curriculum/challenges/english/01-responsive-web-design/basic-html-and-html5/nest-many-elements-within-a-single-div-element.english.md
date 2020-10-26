@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aede08835
 title: Nest Many Elements within a Single div Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cNW4kC3'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/nest-many-elements-within-a-single-div-element.webm'
 forumTopicId: 18246
 ---
 

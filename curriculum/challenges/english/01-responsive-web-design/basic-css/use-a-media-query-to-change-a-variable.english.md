@@ -2,7 +2,7 @@
 id: 5a9d72ad424fe3d0e10cad16
 title: Use a media query to change a variable
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cWmL8UP'
+videoUrl: '/TutorialClips/Basic CSS/use-a-media-query-to-change-a-variable.webm'
 forumTopicId: 301091
 ---
 

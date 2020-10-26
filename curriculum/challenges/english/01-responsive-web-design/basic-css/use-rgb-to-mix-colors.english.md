@@ -2,7 +2,7 @@
 id: bad82fee1348bd9aedf08721
 title: Use RGB to Mix Colors
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cm24JU6'
+videoUrl: '/TutorialClips/Basic CSS/use-rgb-to-mix-colors.webm'
 forumTopicId: 18368
 ---
 

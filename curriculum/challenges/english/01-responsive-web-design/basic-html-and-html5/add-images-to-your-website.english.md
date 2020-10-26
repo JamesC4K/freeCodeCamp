@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08812
 title: Add Images to Your Website
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/c8EbJf2'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/add-images-to-your-website.webm'
 forumTopicId: 16640
 ---
 

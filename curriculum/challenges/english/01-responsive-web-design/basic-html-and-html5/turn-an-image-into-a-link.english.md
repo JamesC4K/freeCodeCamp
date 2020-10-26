@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08820
 title: Turn an Image into a Link
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cRdBnUr'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/turn-an-image-into-a-link.webm'
 forumTopicId: 18327
 ---
 

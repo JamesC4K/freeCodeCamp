@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08721
 title: Use Hex Code to Mix Colors
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cK89PhP'
+videoUrl: '/TutorialClips/Basic CSS/use-hex-code-to-mix-colors.webm'
 forumTopicId: 18359
 ---
 

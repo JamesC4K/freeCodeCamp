@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08726
 title: Use Hex Code for Specific Colors
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c8W9mHM'
+videoUrl: '/TutorialClips/Basic CSS/use-hex-code-for-specific-colors.webm'
 forumTopicId: 18350
 ---
 

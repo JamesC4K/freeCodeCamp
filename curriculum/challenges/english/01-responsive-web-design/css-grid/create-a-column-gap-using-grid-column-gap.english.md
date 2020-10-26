@@ -2,7 +2,7 @@
 id: 5a9036ee38fddaf9a66b5d35
 title: Create a Column Gap Using grid-column-gap
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cVZ8vfD'
+videoUrl: '/TutorialClips/CSS Grid/create-a-column-gap-using-grid-column-gap.webm'
 forumTopicId: 301124
 ---
 

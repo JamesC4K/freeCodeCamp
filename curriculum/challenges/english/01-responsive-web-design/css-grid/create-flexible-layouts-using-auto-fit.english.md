@@ -2,7 +2,7 @@
 id: 5a94fe6269fb03452672e462
 title: Create Flexible Layouts Using auto-fit
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/c3dPph8'
+videoUrl: '/TutorialClips/CSS Grid/create-flexible-layouts-using-auto-fit.webm'
 forumTopicId: 301127
 ---
 

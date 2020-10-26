@@ -2,7 +2,7 @@
 id: 587d781e367417b2b2512ac9
 title: Change an Element's Relative Position
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/czVmMtZ'
+videoUrl: '/TutorialClips/Applied Visual Design/change-an-elements-relative-position.webm'
 forumTopicId: 301044
 ---
 

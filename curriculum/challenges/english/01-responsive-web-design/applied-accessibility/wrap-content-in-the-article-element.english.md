@@ -2,7 +2,7 @@
 id: 587d774e367417b2b2512aa0
 title: Wrap Content in the article Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cPp79S3'
+videoUrl: '/TutorialClips/Applied Accessibility/wrap-content-in-the-article-element.webm'
 forumTopicId: 301029
 ---
 

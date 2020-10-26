@@ -2,7 +2,7 @@
 id: 5a90374338fddaf9a66b5d3a
 title: Align an Item Horizontally using justify-self
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cJbpKHq'
+videoUrl: '/TutorialClips/CSS Grid/align-an-item-horizontally-using-justify-self.webm'
 forumTopicId: 301122
 ---
 

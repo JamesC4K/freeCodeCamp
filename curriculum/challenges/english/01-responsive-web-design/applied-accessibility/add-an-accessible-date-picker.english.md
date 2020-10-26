@@ -2,7 +2,7 @@
 id: 587d778b367417b2b2512aa8
 title: Add an Accessible Date Picker
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cR3bRbCV'
+videoUrl: '/TutorialClips/Applied Accessibility/add-an-accessible-date-picker.webm'
 forumTopicId: 301008
 ---
 

@@ -2,7 +2,7 @@
 id: 587d78a8367417b2b2512ae5
 title: Animate Elements at Variable Rates
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cZ89WA4'
+videoUrl: '/TutorialClips/Applied Visual Design/animate-elements-at-variable-rates.webm'
 forumTopicId: 301040
 ---
 

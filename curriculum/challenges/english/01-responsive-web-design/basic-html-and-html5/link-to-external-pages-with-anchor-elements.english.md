@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08816
 title: Link to External Pages with Anchor Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/c8EkncB'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/link-to-external-pages-with-anchor-elements.webm'
 forumTopicId: 18226
 ---
 

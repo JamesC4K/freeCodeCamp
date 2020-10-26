@@ -2,7 +2,7 @@
 id: 587d78a5367417b2b2512ad7
 title: Use a CSS Linear Gradient to Create a Striped Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c6bmQh2'
+videoUrl: '/TutorialClips/Applied Visual Design/use-a-css-linear-gradient-to-create-a-striped-element.webm'
 forumTopicId: 301072
 ---
 

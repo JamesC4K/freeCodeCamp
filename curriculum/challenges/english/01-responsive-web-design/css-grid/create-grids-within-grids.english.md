@@ -2,7 +2,7 @@
 id: 5a94fe8569fb03452672e464
 title: Create Grids within Grids
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/c6N78Ap'
+videoUrl: '/TutorialClips/CSS Grid/create-grids-within-grids.webm'
 forumTopicId: 301128
 ---
 

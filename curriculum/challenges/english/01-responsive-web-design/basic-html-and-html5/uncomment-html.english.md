@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08802
 title: Uncomment HTML
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cBmG9T7'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/uncomment-html.webm'
 forumTopicId: 18329
 ---
 

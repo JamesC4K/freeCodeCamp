@@ -2,7 +2,7 @@
 id: 587d7791367417b2b2512ab3
 title: Create Visual Balance Using the text-align Property
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c3b4EAp'
+videoUrl: '/TutorialClips/Applied Visual Design/create-visual-balance-using-the-text-align-property.webm'
 forumTopicId: 301053
 ---
 

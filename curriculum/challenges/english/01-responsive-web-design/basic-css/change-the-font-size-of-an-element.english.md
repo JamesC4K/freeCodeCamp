@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08806
 title: Change the Font Size of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c3bvDc8'
+videoUrl: '/TutorialClips/Basic CSS/change-the-font-size-of-an-element.webm'
 forumTopicId: 16777
 ---
 

@@ -2,7 +2,7 @@
 id: 5a9036e138fddaf9a66b5d33
 title: Add Rows with grid-template-rows
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cbp9Pua'
+videoUrl: '/TutorialClips/CSS Grid/add-rows-with-grid-template-rows.webm'
 forumTopicId: 301119
 ---
 

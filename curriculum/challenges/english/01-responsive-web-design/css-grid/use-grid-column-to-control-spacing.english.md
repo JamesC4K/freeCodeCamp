@@ -2,7 +2,7 @@
 id: 5a90372638fddaf9a66b5d38
 title: Use grid-column to Control Spacing
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pByETK/cnzkDSr'
+videoUrl: '/TutorialClips/CSS Grid/use-grid-column-to-control-spacing.webm'
 forumTopicId: 301136
 ---
 

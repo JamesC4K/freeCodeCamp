@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08830
 title: Add Placeholder Text to a Text Field
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cKdJDhg'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/add-placeholder-text-to-a-text-field.webm'
 forumTopicId: 16647
 ---
 

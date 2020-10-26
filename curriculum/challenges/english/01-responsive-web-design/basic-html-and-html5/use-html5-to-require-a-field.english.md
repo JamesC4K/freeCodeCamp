@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedc08830
 title: Use HTML5 to Require a Field
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cMd4EcQ'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/use-html5-to-require-a-field.webm'
 forumTopicId: 18360
 ---
 

@@ -2,7 +2,7 @@
 id: 587d78ae367417b2b2512afd
 title: Use the flex-basis Property to Set the Initial Size of an Item
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/c3d9nCa'
+videoUrl: '/TutorialClips/CSS flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item.webm'
 forumTopicId: 301108
 ---
 

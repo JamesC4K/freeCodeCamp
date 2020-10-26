@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedd08835
 title: Check Radio Buttons and Checkboxes by Default
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cWk3Qh6'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/check-radio-buttons-and-checkboxes-by-default.webm'
 forumTopicId: 301094
 ---
 

@@ -2,7 +2,7 @@
 id: 587d78aa367417b2b2512aec
 title: Define the Head and Body of an HTML Document
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cra9bfP'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/define-the-head-and-body-of-an-html-document.webm'
 forumTopicId: 301096
 ---
 

@@ -2,7 +2,7 @@
 id: 587d781c367417b2b2512ac3
 title: Set the font-weight for Multiple Heading Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/crVWRHq'
+videoUrl: '/TutorialClips/Applied Visual Design/set-the-font-weight-for-multiple-heading-elements.webm'
 forumTopicId: 301069
 ---
 

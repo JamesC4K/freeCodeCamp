@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08807
 title: Import a Google Font
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cM9MRsJ'
+videoUrl: '/TutorialClips/Basic CSS/import-a-google-font.webm'
 forumTopicId: 18200
 ---
 

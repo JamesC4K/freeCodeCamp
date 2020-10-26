@@ -2,7 +2,7 @@
 id: 587d78ad367417b2b2512afb
 title: Use the flex-shrink Property to Shrink Items
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/cd3PBfr'
+videoUrl: '/TutorialClips/CSS flexbox/use-the-flex-shrink-property-to-shrink-items.webm'
 forumTopicId: 301113
 ---
 

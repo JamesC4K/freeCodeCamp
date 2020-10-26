@@ -2,7 +2,7 @@
 id: 587d778c367417b2b2512aa9
 title: Standardize Times with the HTML5 datetime Attribute
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cmzMgtz'
+videoUrl: '/TutorialClips/Applied Accessibility/standardize-times-with-the-html5-datetime-attribute.webm'
 forumTopicId: 301025
 ---
 

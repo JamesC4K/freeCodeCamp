@@ -2,7 +2,7 @@
 id: 587d781c367417b2b2512ac4
 title: Set the font-size of Paragraph Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cVJ36Cr'
+videoUrl: '/TutorialClips/Applied Visual Design/set-the-font-size-of-paragraph-text.webm'
 forumTopicId: 301068
 ---
 

@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08803
 title: Change the Color of Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cRkVmSm'
+videoUrl: '/TutorialClips/Basic CSS/change-the-color-of-text.webm'
 forumTopicId: 16775
 ---
 

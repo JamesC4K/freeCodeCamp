@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08804
 title: Comment out HTML
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cGyGbca'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/comment-out-html.webm'
 forumTopicId: 16782
 ---
 

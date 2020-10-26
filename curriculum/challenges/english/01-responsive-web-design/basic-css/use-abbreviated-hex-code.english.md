@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aedf08719
 title: Use Abbreviated Hex Code
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cRkpKAm'
+videoUrl: '/TutorialClips/Basic CSS/use-abbreviated-hex-code.webm'
 forumTopicId: 18338
 ---
 

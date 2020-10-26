@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aede08807
 title: Set the Font Family of an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c3bvpCg'
+videoUrl: '/TutorialClips/Basic CSS/set-the-font-family-of-an-element.webm'
 forumTopicId: 18278
 ---
 

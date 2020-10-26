@@ -2,7 +2,7 @@
 id: 587d778e367417b2b2512aab
 title: Improve Readability with High Contrast Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/cKb3nCq'
+videoUrl: '/TutorialClips/Applied Accessibility/improve-readability-with-high-contrast-text.webm'
 forumTopicId: 301017
 ---
 

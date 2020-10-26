@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aecf08806
 title: Use a CSS Class to Style an Element
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c2MvDtV'
+videoUrl: '/TutorialClips/Basic CSS/use-a-css-class-to-style-an-element.webm'
 forumTopicId: 18337
 ---
 

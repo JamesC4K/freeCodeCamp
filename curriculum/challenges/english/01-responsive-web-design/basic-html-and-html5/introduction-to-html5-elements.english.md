@@ -2,7 +2,7 @@
 id: bad87fee1348bd9aecf08801
 title: Introduction to HTML5 Elements
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVMPUv/cBkZGpt7'
+videoUrl: '/TutorialClips/Basic HTML and HTML5/introduction-to-html5-elements.webm'
 forumTopicId: 301097
 ---
 

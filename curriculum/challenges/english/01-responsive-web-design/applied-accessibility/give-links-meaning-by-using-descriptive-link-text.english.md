@@ -2,7 +2,7 @@
 id: 587d778f367417b2b2512aae
 title: Give Links Meaning by Using Descriptive Link Text
 challengeType: 0
-videoUrl: 'https://scrimba.com/c/c437DcV'
+videoUrl: '/TutorialClips/Applied Accessibility/give-links-meaning-by-using-descriptive-link-text.webm'
 forumTopicId: 301013
 ---
 

@@ -2,7 +2,7 @@
 id: 587d78ab367417b2b2512af1
 title: Add Flex Superpowers to the Tweet Embed
 challengeType: 0
-videoUrl: 'https://scrimba.com/p/pVaDAv/c9W7MhM'
+videoUrl: '/TutorialClips/CSS flexbox/add-flex-superpowers-to-the-tweet-embed.webm'
 forumTopicId: 301100
 ---
 
