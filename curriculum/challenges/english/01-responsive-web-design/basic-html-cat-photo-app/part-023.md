@@ -20,7 +20,7 @@ After the image nested in the `figure` element, add a `figcaption` element with 
 ```yml
 tests:
   - text: The Lasagna `img` element should be nested in the `figure` element.
-    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === 'https://bit.ly/fcc-lasagna');
+    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === '/lasagna.jpg');
   - text: "Your `figcaption` element should have an opening tag. Opening tags have the following syntax: `<elementName>`."
     testString: assert( document.querySelector('figcaption') );
   - text: Your `figcaption` element should have a closing tag. Closing tags have a `/` just after the `<` character.
@@ -28,7 +28,7 @@ tests:
   - text: The `figcaption` element should be nested in the `figure` element.
     testString: assert( document.querySelector('figure > figcaption') && document.querySelector('figure > figcaption'));
   - text: The lasagna `img` element should be nested in the `figure` element.
-    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === 'https://bit.ly/fcc-lasagna');
+    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === '/lasagna.jpg');
   - text: The `figcaption` element nested in the `figure` element should be below the `img` element. You have them in the wrong order.
     testString: assert( document.querySelector('figcaption').previousElementSibling.nodeName === 'IMG');
   - text: Your `figcaption` element's text should be `Cats love lasagna.` You have either omitted the text or have a typo.
@@ -51,7 +51,7 @@ tests:
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -63,7 +63,7 @@ tests:
         </ul>
         <figure>
           --fcc-editable-region--
-          <img src="https://bit.ly/fcc-lasagna" alt="A slice of lasagna on a plate.">
+          <img src="/lasagna.jpg" alt="A slice of lasagna on a plate.">
           --fcc-editable-region--
         </figure>
       </section>

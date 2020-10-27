@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-Make the text `freeCodeCamp.org` into a link by enclosing it in an anchor (`a`) element. The `href` attribute should be set to `https://www.freecodecamp.org`.
+Make the text `freeCodeCamp.org` into a link by enclosing it in an anchor (`a`) element. The `href` attribute should be set to `https://localhost:8000`.
 
 </section>
 
@@ -23,10 +23,10 @@ tests:
     testString: |
       const aElemClosingTags = code.match(/<\/a\>/g);
       assert( aElemClosingTags && aElemClosingTags.length === 3);
-  - text: Your anchor (`a`) element should have an `href` attribute with the value `https://www.freecodecamp.org`. You may have omitted the attribute/value, or have a typo.
+  - text: Your anchor (`a`) element should have an `href` attribute with the value `https://localhost:8000`. You may have omitted the attribute/value, or have a typo.
     testString: |
       const nestedAnchor = $('footer > p > a')[0];
-      assert( nestedAnchor.getAttribute('href') === 'https://www.freecodecamp.org' );
+      assert( nestedAnchor.getAttribute('href') === 'https://localhost:8000' );
   - text: The link's text should be `freeCodeCamp.org`. You have either omitted the text or have a typo.
     testString: |
       const nestedAnchor = $('footer > p > a')[0];
@@ -53,7 +53,7 @@ tests:
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -64,7 +64,7 @@ tests:
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="https://bit.ly/fcc-lasagna" alt="A slice of lasagna on a plate.">
+          <img src="/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>  
         </figure>
         <h3>Top 3 things cats hate:</h3>
@@ -74,7 +74,7 @@ tests:
           <li>other cats</li>
         </ol>
         <figure>
-          <img src="https://bit.ly/fcc-cats" alt="Five cats looking around a field.">
+          <img src="/fcc-cats.jpg" alt="Five cats looking around a field.">
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
         </figure>
       </section>

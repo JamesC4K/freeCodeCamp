@@ -2,7 +2,7 @@
 id: 5cfa3679138e7d9595b9d9d4
 title: Replace Loops using Recursion
 challengeType: 1
-videoUrl: 'https://www.freecodecamp.org/news/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9/'
+videoUrl: 'https://localhost:8000/news/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9/'
 forumTopicId: 301175
 ---
 

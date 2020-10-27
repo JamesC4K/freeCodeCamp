@@ -13,9 +13,10 @@ In addition to specifying common fonts that are found on most operating systems,
 So, let's go ahead and import and apply a Google font (note that if Google is blocked in your country, you will need to skip this challenge).
 To import a Google Font, you can copy the font's URL from the Google Fonts library and then paste it in your HTML. For this challenge, we'll import the <code>Lobster</code> font. To do this, copy the following code snippet and paste it into the top of your code editor (before the opening <code>style</code> element):
 <code>&#60;link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"&#62;</code>
-Now you can use the <code>Lobster</code> font in your CSS by using <code>Lobster</code> as the FAMILY_NAME as in the following example:<br><code>font-family: FAMILY_NAME, GENERIC_NAME;</code>.
+Now you can use the <code>Lobster</code> font (if we had access to the internet) in your CSS by using <code>Lobster</code> as the FAMILY_NAME as in the following example:<br><code>font-family: FAMILY_NAME, GENERIC_NAME;</code>.
 The GENERIC_NAME is optional, and is a fallback font in case the other specified font is not available. This is covered in the next challenge.
 Family names are case-sensitive and need to be wrapped in quotes if there is a space in the name. For example, you need quotes to use the <code>"Open Sans"</code> font, but not to use the <code>Lobster</code> font.
+Because we do not have access to the internet, if we actually want our font to show in this case, we will need to use a <code>@font-face {}</code> element in our <code>style</code> tag to add the font. <code>@font-face { font-family: "Lobster"; src: url("/Lobster-Regular.ttf"); }</code>
 </section>
 
 ## Instructions
@@ -62,7 +63,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>
@@ -101,8 +102,12 @@ tests:
 <section id='solution'>
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="/Lobster.css" rel="stylesheet" type="text/css">
 <style>
+  @font-face {
+    font-family: "Lobster";
+    src: url("/Lobster-Regular.ttf");
+  }
   .red-text {
     color: red;
   }
@@ -121,7 +126,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>

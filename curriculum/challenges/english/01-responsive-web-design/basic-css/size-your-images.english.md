@@ -32,7 +32,7 @@ Create a class called <code>smaller-image</code> and use it to resize the image 
 ```yml
 tests:
   - text: Your <code>img</code> element should have the class <code>smaller-image</code>.
-    testString: assert($("img[src='https://bit.ly/fcc-relaxing-cat']").attr('class') === "smaller-image");
+    testString: assert($("img[src='/relaxing-cat.jpg']").attr('class') === "smaller-image");
   - text: Your image should be 100 pixels wide.
     testString: assert($("img").width() < 200 && code.match(/\.smaller-image\s*{\s*width\s*:\s*100px\s*(;\s*}|})/i));
 
@@ -46,7 +46,7 @@ tests:
 <div id='html-seed'>
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="/Lobster.css" rel="stylesheet" type="text/css">
 <style>
   .red-text {
     color: red;
@@ -66,7 +66,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>
@@ -105,7 +105,7 @@ tests:
 <section id='solution'>
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="/Lobster.css" rel="stylesheet" type="text/css">
 <style>
   .red-text {
     color: red;
@@ -129,7 +129,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
   
-  <a href="#"><img class="smaller-image" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
   
   <div>
     <p>Things cats love:</p>

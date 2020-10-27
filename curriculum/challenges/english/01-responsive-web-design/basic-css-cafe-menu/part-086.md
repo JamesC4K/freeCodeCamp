@@ -50,7 +50,7 @@ tests:
       <main>
         <section>
           <h2>Coffees</h2>
-          <img src="https://tinyurl.com/cafe-coffee-fcc" alt="coffee icon"/>
+          <img src="/cafe-coffee-fcc.jpg" alt="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
@@ -69,7 +69,7 @@ tests:
         </section>
         <section>
           <h2>Desserts</h2>
-          <img src="https://tinyurl.com/cafe-pie-fcc" alt="pie icon"/>
+          <img src="/cafe-pie-fcc.jpg" alt="pie icon"/>
           <article class="item">
             <p class="dessert">Donut</p><p class="price">1.50</p>
           </article>
@@ -87,7 +87,7 @@ tests:
       <hr class="bottom-line">
       <footer>
         <p>
-          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+          <a href="https://localhost:8000" target="_blank">Visit our website</a>
         </p>
         <p class="address">123 Free Code Camp Drive</p>
       </footer>
@@ -102,7 +102,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
   padding: 20px;
 }
@@ -224,7 +224,7 @@ a:active {
       <main>
         <section>
           <h2>Coffees</h2>
-          <img src="https://tinyurl.com/cafe-coffee-fcc" alt="coffee icon"/>
+          <img src="/cafe-coffee-fcc.jpg" alt="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
@@ -243,7 +243,7 @@ a:active {
         </section>
         <section>
           <h2>Desserts</h2>
-          <img src="https://tinyurl.com/cafe-pie-fcc" alt="pie icon"/>
+          <img src="/cafe-pie-fcc.jpg" alt="pie icon"/>
           <article class="item">
             <p class="dessert">Donut</p><p class="price">1.50</p>
           </article>
@@ -261,7 +261,7 @@ a:active {
       <hr class="bottom-line">
       <footer>
         <p>
-          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+          <a href="https://localhost:8000" target="_blank">Visit our website</a>
         </p>
         <p class="address">123 Free Code Camp Drive</p>
       </footer>
@@ -276,7 +276,7 @@ a:active {
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
   padding: 20px;
 }

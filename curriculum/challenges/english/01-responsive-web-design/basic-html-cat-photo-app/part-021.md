@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-After the unordered list, add a new image with an `src` attribute value set to `https://bit.ly/fcc-lasagna` and an `alt` attribute value set to `A slice of lasagna on a plate.`
+After the unordered list, add a new image with an `src` attribute value set to `/lasagna.jpg` and an `alt` attribute value set to `A slice of lasagna on a plate.`
 
 </section>
 
@@ -25,8 +25,8 @@ tests:
     testString: assert( $('section')[1].lastElementChild.getAttribute('alt').replace(/\s+/g, ' ').match(/^A slice of lasagna on a plate\.?$/i) );
   - text: The new image does not have an `src` attribute. Check that there is a space after the opening tag's name and/or there are spaces before all attribute names.
     testString: assert($('section')[1].lastElementChild.hasAttribute('src') );
-  - text: The new image should have an `src` value of `https://bit.ly/fcc-lasagna`. Make sure the `src` attribute's value is surrounded with quotation marks.
-    testString: assert( $('section')[1].lastElementChild.getAttribute('src') === 'https://bit.ly/fcc-lasagna');
+  - text: The new image should have an `src` value of `/lasagna.jpg`. Make sure the `src` attribute's value is surrounded with quotation marks.
+    testString: assert( $('section')[1].lastElementChild.getAttribute('src') === '/lasagna.jpg');
   - text: Although you have set the new image's `src` to the correct URL, it is recommended to always surround the value of an attribute with quotation marks.
     testString: assert( !/\<img\s+.+\s+src\s*=\s*https:\/\/bit\.ly\/fcc-lasagna/.test(code) );
 
@@ -48,7 +48,7 @@ tests:
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>

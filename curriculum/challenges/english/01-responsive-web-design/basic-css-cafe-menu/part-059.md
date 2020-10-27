@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-Inside the `footer`, add a `p` element. Then, nest an anchor (`a`) element in the `p` that links to `https://www.freecodecamp.org` and has the text `Visit our website`.
+Inside the `footer`, add a `p` element. Then, nest an anchor (`a`) element in the `p` that links to `https://localhost:8000` and has the text `Visit our website`.
 
 </section>
 
@@ -95,7 +95,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
 }
 

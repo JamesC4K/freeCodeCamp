@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-A link's text must be placed between the opening and closing tags of an anchor (`a`) element. For example, `<a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a>` is a link with the text `click here to go to freeCodeCamp.org`.
+A link's text must be placed between the opening and closing tags of an anchor (`a`) element. For example, `<a href="https://localhost:8000">click here to go to freeCodeCamp.org</a>` is a link with the text `click here to go to freeCodeCamp.org`.
 
 Add the anchor text `cat photos` to the anchor element. This will become the link's text.
 
@@ -46,7 +46,7 @@ tests:
       --fcc-editable-region--
       <a href="https://freecatphotoapp.com"></a>
       --fcc-editable-region--
-      <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+      <img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
     </main>
   </body>
 </html>

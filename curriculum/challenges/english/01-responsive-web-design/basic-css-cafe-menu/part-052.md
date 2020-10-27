@@ -93,7 +93,7 @@ tests:
 ```css
 --fcc-editable-region--
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
 }
 --fcc-editable-region--
 

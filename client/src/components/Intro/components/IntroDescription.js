@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Spacer } from '../../helpers';
 import { Col } from '@freecodecamp/react-bootstrap';
-import { forumLocation } from '../../../../config/env.json';
+// import { forumLocation } from '../../../../config/env.json';
 
 import '../intro.css';
 
@@ -15,6 +15,23 @@ function IntroDescription() {
       smOffset={1}
       xs={12}
     >
+      <h1>
+        Please Note This is <em>Offline</em> Free Code Camp!
+      </h1>
+      <p>
+        As this is offline freeCodeCamp, some lessons contain links to external
+        resources.
+      </p>
+      <p>
+        Where we could, we tried to replace these by replacing the 'https://...'
+        (which links to an external resource) with a local resource (e.g.
+        '/fcc-cats.png').
+      </p>
+      <p>
+        Please be patient where you see that links to external resources are
+        involved and be aware that there may be some broken resources that we
+        haven't found yet.
+      </p>
       <strong>Please slow down and read this.</strong>
       <Spacer />
       <p>freeCodeCamp is a proven path to your first software developer job.</p>
@@ -52,13 +69,6 @@ function IntroDescription() {
         If you want to get a developer job or freelance clients, programming
         skills will be just part of the puzzle. You also need to build your
         personal network and your reputation as a developer.
-      </p>
-      <p>
-        You can do this on Twitter and GitHub, and also on{' '}
-        <Link className='inline' to={forumLocation}>
-          the freeCodeCamp forum
-        </Link>
-        .
       </p>
       <p>Happy coding.</p>
     </Col>

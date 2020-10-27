@@ -25,7 +25,7 @@ tests:
   - text: There should be an `figure` element right above the second `section` element's closing tag.
     testString: assert( $('section')[1].lastElementChild.nodeName === 'FIGURE' );
   - text: The lasagna `img` element should be nested in the `figure` element.
-    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === 'https://bit.ly/fcc-lasagna');
+    testString: assert( document.querySelector('figure > img') && document.querySelector('figure > img').getAttribute('src').toLowerCase() === '/lasagna.jpg');
 ```
 
 </section>
@@ -44,7 +44,7 @@ tests:
       <h2>Cat Photos</h2>
       <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -55,7 +55,7 @@ tests:
           <li>lasagna</li>
         </ul>
         --fcc-editable-region--
-        <img src="https://bit.ly/fcc-lasagna" alt="A slice of lasagna on a plate.">
+        <img src="/lasagna.jpg" alt="A slice of lasagna on a plate.">
         --fcc-editable-region--
       </section>
     </main>

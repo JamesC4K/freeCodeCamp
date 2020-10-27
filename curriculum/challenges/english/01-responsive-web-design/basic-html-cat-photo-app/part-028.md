@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-Inside the `figure` element you just added, nest an `img` element with a `src` attribute set to `https://bit.ly/fcc-cats`.
+Inside the `figure` element you just added, nest an `img` element with a `src` attribute set to `/fcc-cats.jpg`.
 
 </section>
 
@@ -24,11 +24,11 @@ tests:
   - text: There should be a second `figure` element right above the second `section` element's closing tag. You have them in the wrong order.
     testString: assert( $('main > section')[1].lastElementChild.nodeName === 'FIGURE' );
   - text: You should have a third `img` element nested in the `figure` element.
-    testString: const catsImg = document.querySelectorAll('figure > img')[1]; assert( catsImg && catsImg.getAttribute('src').toLowerCase() === 'https://bit.ly/fcc-cats');
-  - text: The third image should have an `src` attribute set to `https://bit.ly/fcc-cats`.
+    testString: const catsImg = document.querySelectorAll('figure > img')[1]; assert( catsImg && catsImg.getAttribute('src').toLowerCase() === '/fcc-cats.jpg');
+  - text: The third image should have an `src` attribute set to `/fcc-cats.jpg`.
     testString: |
       const catsImg = document.querySelectorAll('figure > img')[1];
-      assert( catsImg && catsImg.getAttribute('src').toLowerCase() === 'https://bit.ly/fcc-cats');
+      assert( catsImg && catsImg.getAttribute('src').toLowerCase() === '/fcc-cats.jpg');
   - text: Although you have set the new image's `src` to the correct URL, it is recommended to always surround the value of an attribute with quotation marks.
     testString: assert( !/\<img\s+.+\s+src\s*=\s*https:\/\/bit\.ly\/fcc-cats/.test(code) );
 
@@ -49,7 +49,7 @@ tests:
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -60,7 +60,7 @@ tests:
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="https://bit.ly/fcc-lasagna" alt="A slice of lasagna on a plate.">
+          <img src="/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>  
         </figure>
         <h3>Top 3 things cats hate:</h3>

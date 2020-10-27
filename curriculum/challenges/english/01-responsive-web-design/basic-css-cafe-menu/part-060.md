@@ -82,7 +82,7 @@ tests:
       <footer>
         --fcc-editable-region--
         <p>
-          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+          <a href="https://localhost:8000" target="_blank">Visit our website</a>
         </p>
         --fcc-editable-region--
       </footer>
@@ -97,7 +97,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
 }
 

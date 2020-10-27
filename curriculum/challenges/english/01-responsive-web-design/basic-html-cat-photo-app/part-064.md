@@ -48,7 +48,7 @@ tests:
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -59,7 +59,7 @@ tests:
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="https://bit.ly/fcc-lasagna" alt="A slice of lasagna on a plate.">
+          <img src="/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>  
         </figure>
         <h3>Top 3 things cats hate:</h3>
@@ -69,7 +69,7 @@ tests:
           <li>other cats</li>
         </ol>
         <figure>
-          <img src="https://bit.ly/fcc-cats" alt="Five cats looking around a field.">
+          <img src="/fcc-cats.jpg" alt="Five cats looking around a field.">
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
         </figure>
       </section>
@@ -94,7 +94,7 @@ tests:
     </main>
     <footer>
       <p>
-        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+        No Copyright - <a href="https://localhost:8000">freeCodeCamp.org</a>
       </p>
     </footer>
   </body>

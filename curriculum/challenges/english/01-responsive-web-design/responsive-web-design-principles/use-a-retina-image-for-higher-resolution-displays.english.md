@@ -51,7 +51,7 @@ tests:
 
 </style>
 
-<img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
+<img src="/FCCStickers-CamperBot.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
 ```
 
 </div>
@@ -71,7 +71,7 @@ tests:
   }
 </style>
 
-<img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
+<img src="/FCCStickers-CamperBot.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
 ```
 
 </section>

@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-You can link to another page with the anchor (`a`) element. For example, <a href="https://www.freecodecamp.org"></a> would link to `freecodecamp.org`. 
+You can link to another page with the anchor (`a`) element. For example, <a href="https://localhost:8000"></a> would link to `freecodecamp.org`. 
 
 Add an anchor element after the paragraph that links to `https://freecatphotoapp.com`. At this point, the link won’t show up in the preview.
 
@@ -51,7 +51,7 @@ tests:
       --fcc-editable-region--
       <p>Click here to view more cat photos.</p>
       --fcc-editable-region--
-      <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+      <img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
     </main>
   </body>
 </html>

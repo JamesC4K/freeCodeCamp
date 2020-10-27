@@ -57,8 +57,8 @@ img {
 }
 </style>
 
-<img class="responsive-img" src="https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
-<img src="https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
+<img class="responsive-img" src="/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
+<img src="/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
 ```
 
 </div>
@@ -82,8 +82,8 @@ img {
 }
 </style>
 
-<img class="responsive-img" src="https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
-<img src="https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
+<img class="responsive-img" src="/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
+<img src="/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
 ```
 
 </section>

@@ -13,7 +13,7 @@ One way to add texture and interest to a background and have it stand out more i
 
 ## Instructions
 <section id='instructions'>
-Using the url of <code>https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png</code>, set the <code>background</code> of the whole page with the <code>body</code> selector.
+Using the url of <code>/background.png</code>, set the <code>background</code> of the whole page with the <code>body</code> selector.
 </section>
 
 ## Tests
@@ -53,7 +53,7 @@ tests:
 ```html
 <style>
   body {
-    background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+    background: url("/background.png");
   }
 </style>
 ```

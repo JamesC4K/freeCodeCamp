@@ -90,7 +90,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
 }
 

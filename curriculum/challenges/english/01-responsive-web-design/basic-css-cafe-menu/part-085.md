@@ -8,7 +8,7 @@ isHidden: true
 ## Description
 <section id='description'>
 
-Add one last image under the `Desserts` heading using the url `https://tinyurl.com/cafe-pie-fcc`. Give the image an `alt` value of `pie icon`.
+Add one last image under the `Desserts` heading using the url `/cafe-pie-fcc.jpg`. Give the image an `alt` value of `pie icon`.
 
 </section>
 
@@ -48,7 +48,7 @@ tests:
       <main>
         <section>
           <h2>Coffees</h2>
-          <img src="https://tinyurl.com/cafe-coffee-fcc" alt="coffee icon"/>
+          <img src="/cafe-coffee-fcc.jpg" alt="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
@@ -86,7 +86,7 @@ tests:
       <hr class="bottom-line">
       <footer>
         <p>
-          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+          <a href="https://localhost:8000" target="_blank">Visit our website</a>
         </p>
         <p class="address">123 Free Code Camp Drive</p>
       </footer>
@@ -101,7 +101,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
   padding: 20px;
 }

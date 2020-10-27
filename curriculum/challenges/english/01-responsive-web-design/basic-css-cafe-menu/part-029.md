@@ -10,7 +10,7 @@ isHidden: true
 
 Since the cafe's main product for sale is coffee, you could use an image of coffee beans for the background of the page.
 
-Delete the comment and its contents inside the `body` type selector. Now add a `background-image` property and set its value to `url(https://tinyurl.com/coffee-beans-fcc)`.
+Delete the comment and its contents inside the `body` type selector. Now add a `background-image` property and set its value to `url(/coffee-beans.jpeg)`.
 
 </section>
 

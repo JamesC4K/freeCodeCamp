@@ -10,7 +10,7 @@ isHidden: true
 
 The menu looks good, but other than the coffee beans background image, it is mainly just text.
 
-Under the `Coffees` heading, add an image using the url `https://tinyurl.com/cafe-coffee-fcc`. Give the image an `alt` value of `coffee icon`.
+Under the `Coffees` heading, add an image using the url `/cafe-coffee-fcc.jpg`. Give the image an `alt` value of `coffee icon`.
 
 </section>
 
@@ -87,7 +87,7 @@ tests:
       <hr class="bottom-line">
       <footer>
         <p>
-          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+          <a href="https://localhost:8000" target="_blank">Visit our website</a>
         </p>
         <p class="address">123 Free Code Camp Drive</p>
       </footer>
@@ -102,7 +102,7 @@ tests:
 
 ```css
 body {
-  background-image: url(https://tinyurl.com/coffee-beans-fcc);
+  background-image: url(/coffee-beans.jpeg);
   font-family: sans-serif;
   padding: 20px;
 }

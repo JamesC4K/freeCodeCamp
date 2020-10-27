@@ -45,7 +45,7 @@ tests:
 <div id='html-seed'>
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="/Lobster.css" rel="stylesheet" type="text/css">
 <style>
   .red-text {
     color: red;
@@ -77,7 +77,7 @@ tests:
 
   <p>Click here for <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera.">
   <div class="row">
@@ -125,7 +125,7 @@ tests:
 <section id='solution'>
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="/Lobster.css" rel="stylesheet" type="text/css">
 <style>
   h2 {
     font-family: Lobster, Monospace;
@@ -142,7 +142,7 @@ tests:
 <div class="container-fluid">
   <h2 class="text-primary text-center">CatPhotoApp</h2>
 
-  <a href="#"><img class="img-responsive thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="img-responsive thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera.">
   <div class="row">

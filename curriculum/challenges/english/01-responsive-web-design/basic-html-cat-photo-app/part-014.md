@@ -17,8 +17,8 @@ Turn the image into a link by surrounding it with necessary element tags. Use `h
 
 ```yml
 tests:
-  - text: You should have an `img` element with an `src` value of `https://bit.ly/fcc-relaxing-cat`. You may have accidentally deleted it.
-    testString: assert( document.querySelector('img') && document.querySelector('img').getAttribute('src') === 'https://bit.ly/fcc-relaxing-cat' );
+  - text: You should have an `img` element with an `src` value of `/relaxing-cat.jpg`. You may have accidentally deleted it.
+    testString: assert( document.querySelector('img') && document.querySelector('img').getAttribute('src') === '/relaxing-cat.jpg' );
   - text: "Your anchor (`a`) element should have an opening tag. Opening tags have this syntax: `<elementName>`."
     testString: assert( document.querySelectorAll('a').length >= 2 );
   - text: You should only add one opening anchor (`a`) tag. Please remove any extras.
@@ -52,7 +52,7 @@ tests:
       <!-- TODO: Add link to cat photos -->
       <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
       --fcc-editable-region--
-      <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+      <img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
       --fcc-editable-region--
     </main>
   </body>

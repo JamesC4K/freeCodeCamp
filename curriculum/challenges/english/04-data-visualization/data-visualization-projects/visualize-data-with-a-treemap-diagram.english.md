@@ -23,7 +23,7 @@ You can use HTML, JavaScript, CSS, and the D3 svg-based visualization library. T
 <strong>User Story #10:</strong> I can mouse over an area and see a tooltip with a corresponding <code>id="tooltip"</code> which displays more information about the area.
 <strong>User Story #11:</strong> My tooltip should have a <code>data-value</code> property that corresponds to the <code>data-value</code> of the active area.
 For this project you can use any of the following datasets:<br><ul><li><strong>Kickstarter Pledges:</strong> <code>https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/kickstarter-funding-data.json</code></li><li><strong>Movie Sales:</strong> <code>https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/movie-data.json</code></li><li><strong>Video Game Sales:</strong> <code>https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/video-game-sales-data.json</code></li></ul>
-You can build your project by forking <a href='https://codepen.io/freeCodeCamp/pen/MJjpwO' target='_blank'>this CodePen pen</a>. Or you can use this CDN link to run the tests in any environment you like: <code>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</code>
+You can build your project by forking <a href='https://codepen.io/freeCodeCamp/pen/MJjpwO' target='_blank'>this CodePen pen</a>. Or you can use this CDN link to run the tests in any environment you like: <code>/bundle.js</code>
 Once you're done, submit the URL to your working project with all its tests passing.
 </section>
 

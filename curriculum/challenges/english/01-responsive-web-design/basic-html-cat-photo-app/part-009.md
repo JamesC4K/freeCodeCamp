@@ -45,7 +45,7 @@ tests:
       <!-- TODO: Add link to cat photos -->
       <p>Click here to view more cat photos.</p>
       --fcc-editable-region--
-      <img src="https://bit.ly/fcc-relaxing-cat">
+      <img src="/relaxing-cat.jpg">
       --fcc-editable-region--
     </main>
   </body>

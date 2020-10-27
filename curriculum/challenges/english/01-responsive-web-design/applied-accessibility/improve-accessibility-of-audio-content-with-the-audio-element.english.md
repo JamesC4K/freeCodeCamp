@@ -24,7 +24,7 @@ Here's an example:
 
 ## Instructions
 <section id='instructions'>
-Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), a champion of accessibility and a screen reader user. To hear a clip of his screen reader in action, add an <code>audio</code> element after the <code>p</code>. Include the <code>controls</code> attribute. Then place a <code>source</code> tag inside the <code>audio</code> tags with the <code>src</code> attribute set to "https://s3.amazonaws.com/freecodecamp/screen-reader.mp3" and <code>type</code> attribute set to "audio/mpeg".
+Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), a champion of accessibility and a screen reader user. To hear a clip of his screen reader in action, add an <code>audio</code> element after the <code>p</code>. Include the <code>controls</code> attribute. Then place a <code>source</code> tag inside the <code>audio</code> tags with the <code>src</code> attribute set to "/screen-reader.mp3" and <code>type</code> attribute set to "audio/mpeg".
 <strong>Note:</strong> The audio clip may sound fast and be difficult to understand, but that is a normal speed for screen reader users.
 </section>
 
@@ -44,7 +44,7 @@ tests:
   - text: Your <code>source</code> tag should be inside the <code>audio</code> tags.
     testString: assert($('audio').children('source').length === 1);
   - text: The value for the <code>src</code> attribute on the <code>source</code> tag should match the link in the instructions exactly.
-    testString: assert($('source').attr('src') === 'https://s3.amazonaws.com/freecodecamp/screen-reader.mp3');
+    testString: assert($('source').attr('src') === '/screen-reader.mp3');
   - text: Your code should include a <code>type</code> attribute on the <code>source</code> tag with a value of audio/mpeg.
     testString: assert($('source').attr('type') === 'audio/mpeg');
 
@@ -88,7 +88,7 @@ tests:
   <main>
     <p>A sound clip of Zersiax's screen reader in action.</p>
     <audio controls>
-      <source src="https://s3.amazonaws.com/freecodecamp/screen-reader.mp3" type="audio/mpeg"/>
+      <source src="/screen-reader.mp3" type="audio/mpeg"/>
     </audio>
   </main>
 </body>

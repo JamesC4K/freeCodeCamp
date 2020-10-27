@@ -27,7 +27,7 @@ You can use HTML, JavaScript, CSS, and the D3 svg-based visualization library. T
 <strong>User Story #14:</strong> I can mouse over an area and see a tooltip with a corresponding <code>id="tooltip"</code> which displays more information about the area.
 <strong>User Story #15:</strong> My tooltip should have a <code>data-year</code> property that corresponds to the <code>data-xvalue</code> of the active area.
 Here is the dataset you will need to complete this project: <code>https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json</code>
-You can build your project by forking <a href='https://codepen.io/freeCodeCamp/pen/MJjpwO' target='_blank'>this CodePen pen</a>. Or you can use this CDN link to run the tests in any environment you like: <code>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</code>
+You can build your project by forking <a href='https://codepen.io/freeCodeCamp/pen/MJjpwO' target='_blank'>this CodePen pen</a>. Or you can use this CDN link to run the tests in any environment you like: <code>/bundle.js</code>
 Once you're done, submit the URL to your working project with all its tests passing.
 </section>
 
