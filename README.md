@@ -27,7 +27,7 @@ Clone this git repository to your local machine (you can do this through git, or
 
 Navigate (cd in cmd for Windows (run as administrator) or terminal for macOS/ LINUX) into the directory and run 'npm install'. You might need to be an administrator to do this (in this case 'sudo npm install' for macOS/ LINUX). 
 
-To run the service run 'npm run develop', which starts the development environment. Once again for this you may need to be an administrator or you will get an error!
+To run the service run 'npm run develop', which starts the development environment. Once again for this you may need to be an administrator ('sudo npm run develop') or you will get an error!
 
 Navigate in your browser to https://localhost:8000 to go to the freeComdCamp homepage.
 
