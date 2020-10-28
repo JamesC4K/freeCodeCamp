@@ -43,8 +43,8 @@ What is the problem?
 What is the solution?
 
 1) If it's just a resource on 1 page which needs redirecting to a local media file, navigate into /curriculum/challenges/<language>/<section>/<lesson> to that .md file and see where the external resource is being used. Download the resource into the /client/static directory (this is the root directory for media) if it's not already there and change the web address to point to that resouce (e.g. 'https://www.google.com/image.png' -> '/image.png').
-
-If the resource needs to be renamed across many files, there is a python script in the root directory of the project ('refactor_resources.py') which can rename occurences within the files for specific web addresses. Use the function, find_resources(), to find occurences of 'https://' across the project. Then use rename_resources() to provide a dictionary of values { old_resource: new_resource } and change it in every file for a given number of files. ONLY USE THIS IF YOU THINK YOU KNOW WHAT YOU'RE DOING AND BE PREPARED TO REVERT YOUR CODE BACK ONCE YOU BREAK IT.
+  
+  If the resource needs to be renamed across many files, there is a python script in the root directory of the project ('refactor_resources.py') which can rename occurences within the files for specific web addresses. Use the function, find_resources(), to find occurences of 'https://' across the project. Then use rename_resources() to provide a dictionary of values { old_resource: new_resource } and change it in every file for a given number of files. ONLY USE THIS IF YOU THINK YOU KNOW WHAT YOU'RE DOING AND BE PREPARED TO REVERT YOUR CODE BACK ONCE YOU BREAK IT.
 
 2) Download the resource to /client/static and make sure it is named correctly in the .md file as in 1).
 
