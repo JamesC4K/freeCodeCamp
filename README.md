@@ -5,7 +5,52 @@
 [![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
-## This is an Offline Fork of freeCodeCamp with external resources (like images) replaced with local resources
+# This is an Offline Fork of freeCodeCamp
+
+External resources (like images) have been replaced with local resources where possible.
+
+## Offline Explanations
+
+- [How freeCodeCamp Works](#how-freecodecamp-works)
+- [How To Install and Run](#how-to-install-and-run)
+- [How To Contribute](#how-to-contribute)
+
+### How freeCodeCamp Works
+
+freeCodeCamp uses the Gatsby framework to render its pages. freeCodeCamp holds its curriculum in the /curriculum/challenges/<language>/ folder with the content in a number of markdown (.md) files. These files are split into a number of sections ('Description' - the 'lesson' part; 'Instruction' - for the challenge; 'Tests' (yml) - unit tests for the challenge to pass; 'Challenge Seed' - the code to start off with; and 'Solution' - what they should end up with) which are used to generate the challenges. By changing these markdown files, we can change resources which rely on the web to those that are local.
+  
+When running, freeCodeCamp runs the /api-server on port 3000 of your machine and runs /client on port 8000 or you machine. The server and client then ocmmunicate as they would on the internet.
+
+### How to Install and Run
+
+Clone this git repository to your local machine (you can do this through git, or download and unzip the source file).
+
+Navigate (cd in cmd for Windows (run as administrator) or terminal for macOS/ LINUX) into the directory and run 'npm install'. You might need to be an administrator to do this (in this case 'sudo npm install' for macOS/ LINUX). 
+
+To run the service run 'npm run develop', which starts the development environment. Once again for this you may need to be an administrator or you will get an error!
+
+Navigate in your browser to https://localhost:8000 to go to the freeComdCamp homepage.
+
+### How to Contribute
+
+If you find some error whilst working through the exercises, you can improve the solution.
+
+What is the problem?
+1) Some media resource (image/ gif/ video etc.) still points to some external resource (https://...).
+2) Some media resource is pointing to a local resource which doesn't exist.
+3) Tutorial hints/ videos need to be added (e.g. the Python course).
+
+What is the solution?
+
+1) If it's just a resource on 1 page which needs redirecting to a local media file, navigate into /curriculum/challenges/<language>/<section>/<lesson> to that .md file and see where the external resource is being used. Download the resource into the /client/static directory (this is the root directory for media) if it's not already there and change the web address to point to that resouce (e.g. 'https://www.google.com/image.png' -> '/image.png').
+
+If the resource needs to be renamed across many files, there is a python script in the root directory of the project ('refactor_resources.py') which can rename occurences within the files for specific web addresses. Use the function, find_resources(), to find occurences of 'https://' across the project. Then use rename_resources() to provide a dictionary of values { old_resource: new_resource } and change it in every file for a given number of files. ONLY USE THIS IF YOU THINK YOU KNOW WHAT YOU'RE DOING AND BE PREPARED TO REVERT YOUR CODE BACK ONCE YOU BREAK IT.
+
+2) Download the resource to /client/static and make sure it is named correctly in the .md file as in 1).
+
+3) Download the video course and put it in the client/static/<the-course-name>. Name the videos after the names of the .md files then systematically change the VideoURL at the top in a similar way to how the Python script renames resources.
+
+# Original freeCodeCamp README.md
 
 ## freeCodeCamp.org's open-source codebase and curriculum
 
